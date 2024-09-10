@@ -1,0 +1,21 @@
+Sl no,Age,Gender,Income,Education,Marital Status,Number of Children,Home Ownership,Credit Score
+1,25,Female,"50,000",Bachelor's Degree,Single,0,Rented,High
+2,30,Male,"1,00,000",Master's Degree,Married,2,Owned,High
+3,35,Female,"75,000",Doctorate,Married,1,Owned,High
+4,40,Male,"1,25,000",High School Diploma,Single,0,Owned,High
+5,45,Female,"1,00,000",Bachelor's Degree,Married,3,Owned,High
+6,50,Male,"1,50,000",Master's Degree,Married,0,Owned,High
+7,26,Female,"40,000",Associate's Degree,Single,0,Rented,Average
+8,31,Male,"60,000",Bachelor's Degree,Single,0,Rented,Average
+9,36,Female,"80,000",Master's Degree,Married,2,Owned,High
+10,41,Male,"1,05,000",Doctorate,Single,0,Owned,High
+11,46,Female,"90,000",High School Diploma,Married,1,Owned,High
+12,51,Male,"1,35,000",Bachelor's Degree,Married,0,Owned,High
+13,27,Female,"35,000",High School Diploma,Single,0,Rented,Low
+14,32,Male,"55,000",Associate's Degree,Single,0,Rented,Average
+15,37,Female,"70,000",Bachelor's Degree,Married,2,Owned,High
+16,42,Male,"95,000",Master's Degree,Single,0,Owned,High
+17,47,Female,"85,000",Doctorate,Married,1,Owned,High
+18,52,Male,"1,25,000",High School Diploma,Married,0,Owned,High
+19,28,Female,"30,000",Associate's Degree,Single,0,Rented,Low
+20,33,Male,"50,000",High School Diploma,Single,0,Rented,Average
